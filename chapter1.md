@@ -1,3 +1,6 @@
-# First Chapter
+#### 想要得到某样东西，最好的办法是让自己配得上它
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+PHPer 的开发的技术栈大多是 **LAMP **或者是 **LNMP**，其中 Linux、Apache（Nginx）都比较偏运维，但是 PHP、MySQL 是每一位合格的 PHPer 都必须精通的技术栈。
+
+而 Web 开发又不单单只靠 **PHP**、**MySQL**，更多的还需要了前端、Web 安全、高并发、性能优化，甚至还需要学习网络协议、算法等等相关的编程知识。
+
